@@ -9,6 +9,8 @@ public class Test {
 		System.out.println("commit--xxxxxxxxxx");
 		
 		System.out.println("ss");
+		
+		System.out.println("addd to index 1");
 	}
 
 }
