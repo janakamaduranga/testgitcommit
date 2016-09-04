@@ -11,6 +11,8 @@ public class Test {
 		System.out.println("ss");
 		
 		System.out.println("addd to index 1");
+		
+		System.out.println("commit");
 	}
 
 }
